@@ -1,7 +1,7 @@
 [
   {
     "name": "Stripes Metal Lighting Rgb",
-    "url": "https://images.unsplash.com/photo-1650018943477-781416d478cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MXwzMTcwOTl8fHx8fDJ8fDE2NTAzMTY1NDc&ixlib=rb-1.2.1&q=80&w=1080",
+    "url": "https://th.bing.com/th/id/OIP.fT2_Lps2FA7oSuUtixzUSQHaEN?rs=1&pid=ImgDetMain",
     "previewUrl": "https://images.unsplash.com/photo-1650018943477-781416d478cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MXwzMTcwOTl8fHx8fDJ8fDE2NTAzMTY1NDc&ixlib=rb-1.2.1&q=80&w=400",
     "categories": "Abstract, Amoled, Neon",
     "premium": false
