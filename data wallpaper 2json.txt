@@ -1,8 +1,8 @@
 [
   {
     "name": "Stripes Metal Lighting Rgb",
-    "url": "https://wallpaperaccess.com/full/2015375.jpg",
-    "previewUrl": "https://wallpaperaccess.com/full/2015375.jpg",
+    "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/https://getonstream.com/app/uploads/2022/08/image-1-1024x570.png",
+    "previewUrl": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/https://getonstream.com/app/uploads/2022/08/image-1-1024x570.png",
     "categories": "Abstract, Amoled, Neon",
     "premium": false
   },
