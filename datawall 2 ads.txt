@@ -15,9 +15,9 @@
       "yandex_appopen":"R-M-5595189-4",
 
      
-      "PriorityBanner":"yandex",
-      "PriorityNative":"yandex",
-      "priorityInterstitial":"yandex"
+      "PriorityBanner":"huawei",
+      "PriorityNative":"huawei",
+      "priorityInterstitial":"huawei"
   
    }
 }
